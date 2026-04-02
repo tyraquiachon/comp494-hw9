@@ -16,6 +16,9 @@ HW9_screenshot.png
 - `Number.isInteger()` —> checks if a value is a whole number
 - `toFixed()` —> rounds a number to a set number of decimal places
 
+## Extra Credit Option
+- Option 4 -> Add light styling with CSS to make each section look like a separate card or panel
+
 ## Reflection
 Looking back at each step, I found Part 1 to be the easiest because a majority of it was just building off of basic JavaScript knowledge and building strings. Part 2 on the other hand was a bit more annoying to deal with because it felt a little repetitive creating each value but it also helped me visualize each value easier. I also had to remind myself that since JavaScript is 0-based for the months, you need to add the +1 or issues could occur in the code. I found the Number object has useful built-in methods like isNaN() and isInteger() that make it easy for me to validate values simpler. Part 3 was fun since I just had to implement basic math and create the variables for the scenario. Overall this assignment helped me get more comfortable with how JavaScript interacts with the browser and how to display dynamic content on a webpage.
 
